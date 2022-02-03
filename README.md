@@ -1,2 +1,2 @@
-# JavaScript
+# javascript
 Important Concepts In JavaScript 
