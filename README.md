@@ -1,2 +1,2 @@
 # javascript
-Important Concepts In JavaScript 
+important concepts in javascript 
